@@ -1,0 +1,11 @@
+{
+  "name": "com.edadul.movement-system",
+  "version": "1.0.0",
+  "displayName": "Edadul Movement System",
+  "description": "Personal reusable movement system for 3D Unity projects.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Esteban Dadul",
+    "url": "https://github.com/edadul"
+  }
+}
