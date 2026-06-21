@@ -1,0 +1,8 @@
+{
+  "name": "Edadul.MovementSystem.Runtime",
+  "rootNamespace": "Edadul.MovementSystem",
+  "references": [
+    "Unity.InputSystem"
+  ],
+  "autoReferenced": true
+}
